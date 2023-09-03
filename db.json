@@ -1,0 +1,12 @@
+{
+    "products": [
+        {
+            "img": "macbook.jpg",
+            "title": "Apple watch",
+            "count": 7,
+            "price": 9000,
+            "priceTotal": 63000,
+            "id": 1
+        }
+    ]
+}
